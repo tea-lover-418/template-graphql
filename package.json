@@ -1,0 +1,16 @@
+{
+  "name": "template-graphql",
+  "version": "0.0.0",
+  "description": "This is a default setup graphql server",
+  "scripts": {
+    "start": "node ./build/index.js",
+    "build": "tsc -p ."
+  },
+  "author": "Stijn de Ligt",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.12.0",
+    "apollo-server-express": "^2.12.0",
+    "typescript": "^3.8.3"
+  }
+}
