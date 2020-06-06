@@ -9,7 +9,7 @@
   "author": "Stijn de Ligt",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.12.0",
+    "apollo-server": "^2.14.2",
     "apollo-server-express": "^2.12.0",
     "typescript": "^3.8.3"
   }
